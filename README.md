@@ -1,14 +1,15 @@
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://s2.loli.net/2024/12/07/dL4JXeokBQPisbN.gif" />
 
 ### I'm Haruko386
 
-- A Master major in Computer Version | Deep Estimation
+- A Master major in Computer Version | Deep Estimation.
 - 🌱 Currently studying in Shenyang Jianzhu University.
-- 💼 Job Intent: Computer Vision Algorithm Engineer
+- 💼 Job Intent: Computer Vision Algorithm Engineer.
 - 💬 Feel free to ask me about Computer Version, Deep Estimation and my projects on [haruko386@outlook.com](mailto:haruko386@outlook.com)
-- ⭐ My blog and academic page [Blog](https://dimon0000000.github.io/) 、[Academic](https://haruko386.github.io/)。
-- ⚡ Fun fact: Android Development、Deep Estimation
+- ⏱️ I own a Game Speedrun World Record in Hollow Knight Trail of the Warrior.
+- ⭐ My blog and academic page [Blog](https://dimon0000000.github.io/) 、[Academic](https://haruko386.github.io/).
+- ⚡ Fun fact: Android Development、Deep Estimation.
 
 ### 📱 Social Media
 ![Instagram](https://img.shields.io/badge/Instagram-endless_developy-u?style=social&logo=instagram)
