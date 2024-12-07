@@ -15,7 +15,6 @@
 ![X](https://img.shields.io/badge/Twitter-HarukoHust-u?style=social&logo=X)
 ![BiliBili](https://img.shields.io/badge/Bilibili-%E6%9E%AB%E5%8F%B6%E5%90%91%E6%99%9A%E6%B8%85%E9%A3%8E%E5%87%89-u?style=social&logo=Bilibili&link=https%3A%2F%2Fspace.bilibili.com%2F291003955%3Fspm_id_from%3D333.1007.0.0)
 
-
 ### 💻 ACM ＆ OI
 [![LeetCode user developy](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevelopy%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/developy/)
 [![Codeforces](https://badges.riever.dev/codeforces/Developy.svg?left_color=black)](https://codeforces.com/profile/Developy)
