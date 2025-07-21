@@ -4,7 +4,7 @@
 ### I'm Haruko386
 
 - A Master major in Computer Version | Deep Estimation.
-- 🌱 Currently studying in Shenyang Jianzhu University.
+- 🌱 Currently studying in Nanjing University of Posts and Telecommunications.
 - 💼 Job Intent: Computer Vision Algorithm Engineer.
 - 💬 Feel free to ask me about Computer Version, Deep Estimation and my projects on [haruko386@outlook.com](mailto:haruko386@outlook.com)
 - ⏱️ I own a Game Speedrun World Record in Hollow Knight Trail of the Warrior.
@@ -12,10 +12,8 @@
 
 ### 📱 Social Media
 ![Instagram](https://img.shields.io/badge/Instagram-endless_developy-u?style=social&logo=instagram)
-![X](https://img.shields.io/badge/Twitter-HarukoHust-u?style=social&logo=X)
-![BiliBili](https://img.shields.io/badge/Bilibili-%E6%9E%AB%E5%8F%B6%E5%90%91%E6%99%9A%E6%B8%85%E9%A3%8E%E5%87%89-u?style=social&logo=Bilibili&link=https%3A%2F%2Fspace.bilibili.com%2F291003955%3Fspm_id_from%3D333.1007.0.0)
 
-### 💻 ACM ＆ OI
+### 💻 ACM ＆ OI (2022-2023)
 [![LeetCode user developy](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevelopy%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/developy/)
 [![Codeforces](https://badges.riever.dev/codeforces/Developy.svg?left_color=black)](https://codeforces.com/profile/Developy)
 [![AtCoder](https://badges.riever.dev/atcoder/Developy.svg?left_color=lightgrey)](https://atcoder.jp/users/Developy)
