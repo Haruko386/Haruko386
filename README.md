@@ -3,6 +3,12 @@
 
 ### I'm Haruko386
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=-1" alt="Rongronggg9's GitHub trophy">
+</div>
+
+<hr>
+
 - A Master major in Computer Version | Deep Estimation.
 - 🌱 Currently studying in Nanjing University of Posts and Telecommunications.
 - 💼 Job Intent: Computer Vision Algorithm Engineer.
