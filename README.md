@@ -3,12 +3,6 @@
 
 ### I'm Haruko386
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=-1" alt="Rongronggg9's GitHub trophy">
-</div>
-
-<hr>
-
 - A Master major in Computer Version | Deep Estimation.
 - 🌱 Currently studying in Nanjing University of Posts and Telecommunications.
 - 💼 Job Intent: Computer Vision Algorithm Engineer.
@@ -37,17 +31,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Clion](https://img.shields.io/badge/clion-darkgreen?style=for-the-badge&logo=Clion)
 ![Goand](https://img.shields.io/badge/goland-purple?style=for-the-badge&logo=Goland)
 ![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=Pycharm)
-
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haruko386&show_icons=true&theme=github&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruko386&layout=compact&langs_count=8&theme=github"/>
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Haruko386&column=-1" alt="Haruko386's GitHub trophy">
 </div>
 
 ## 📈 Contribution Timeline
