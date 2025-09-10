@@ -4,7 +4,7 @@
 ### I'm Haruko386
 
 - A Master major in Computer Version | Deep Estimation.
-- 🌱 Currently studying in Nanjing University of Posts and Telecommunications.
+- 🌱 Currently studying in Shenyang Jianzhu University.
 - 💼 Job Intent: Computer Vision Algorithm Engineer.
 - 💬 Feel free to ask me about Computer Version, Deep Estimation and my projects on [haruko386@outlook.com](mailto:haruko386@outlook.com)
 - ⏱️ I own a Game Speedrun World Record in Hollow Knight Trail of the Warrior.
