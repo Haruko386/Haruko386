@@ -8,7 +8,7 @@
 - 💼 Job Intent: Computer Vision Algorithm Engineer.
 - 💬 Feel free to ask me about Computer Version, Deep Estimation and my projects on [haruko386@outlook.com](mailto:haruko386@outlook.com)
 - ⏱️ I own a Game Speedrun World Record in Hollow Knight Trail of the Warrior.
-- ⚡ Fun fact: Android Development、Deep Estimation.
+- ⚡ Fun fact: CV Engineer、Deep Estimation.
 
 ### 📱 Social Media
 ![Instagram](https://img.shields.io/badge/Instagram-endless_developy-u?style=social&logo=instagram)
