@@ -1,0 +1,22 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 每天生成一次（可按需改）
+  workflow_dispatch:      # 手动触发支持
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake (Platane/snk)
+        uses: Platane/snk@main
+        with:
+          username: ${{ haruko386 }}     # 或填写你的用户名 "haruko386"
+          format: svg                       # svg 或 gif
+          output: img/snake.svg             # 输出位置（仓库内）
+          theme: default                    # 可选主题/配色（action 支持参数）
+          # 其它可选参数视 action README 而定（颜色、speed 等）
