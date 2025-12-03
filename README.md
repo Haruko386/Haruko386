@@ -15,10 +15,9 @@
 
 ### 💻 ACM ＆ OI (2022-2023)
 [![LeetCode user developy](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevelopy%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/developy/)
-[![Codeforces](https://badges.riever.dev/codeforces/Developy.svg?left_color=black)](https://codeforces.com/profile/Developy)
-[![AtCoder](https://badges.riever.dev/atcoder/Developy.svg?left_color=lightgrey)](https://atcoder.jp/users/Developy)
+[![Codeforces](https://img.shields.io/badge/dynamic/json?logo=codeforces&style=flat&labelColor=black&color=%231f8acb&label=Codeforces&query=result[0].rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DDevelopy)](https://codeforces.com/profile/Developy)
+[![AtCoder](https://img.shields.io/endpoint?logo=porsche&url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FDevelopy&style=flat&labelColor=black&color=brown)](https://atcoder.jp/users/Developy)
 ![CodeChef](https://img.shields.io/badge/CodeChef-1688-darkblue?style=flat&logo=CodeChef&logoColor=%235B4638&labelColor=lightgrey)
-
 
 
 ### 🤖 AI & Machine Learning
@@ -37,8 +36,9 @@
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haruko386"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruko386"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haruko386&theme=transparent" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haruko386&theme=transparent" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haruko386&theme=transparent" width="33%" />
 </div>
 
 <hr>
