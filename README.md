@@ -10,8 +10,11 @@
 - ⏱️ I own a Game Speedrun World Record in Hollow Knight Trail of the Warrior.
 - ⚡ Fun fact: CV Engineer、Deep Estimation.
 
-### 📱 Social Media
-![Instagram](https://img.shields.io/badge/Instagram-endless_developy-u?style=social&logo=instagram)
+### ⌨️ Development Language
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 💻 ACM ＆ OI (2022-2023)
 [![LeetCode user developy](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevelopy%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/developy/)
@@ -19,11 +22,10 @@
 [![AtCoder](https://img.shields.io/endpoint?logo=porsche&url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FDevelopy&style=flat&labelColor=black&color=brown)](https://atcoder.jp/users/Developy)
 ![CodeChef](https://img.shields.io/badge/CodeChef-1688-darkblue?style=flat&logo=CodeChef&logoColor=%235B4638&labelColor=lightgrey)
 
-
 ### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Depth%20Estimation](https://img.shields.io/badge/Depth%20Estimation-4B6CB7?style=for-the-badge&logo=opencv&logoColor=white)
+![Stable%20Diffusion](https://img.shields.io/badge/Stable%20Diffusion-6A5ACD?style=for-the-badge&logo=4chan&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🛠️ Development toolkit
