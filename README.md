@@ -54,7 +54,7 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haruko386&column=-1" alt="Haruko386's GitHub trophy">
+  <img src="https://github-trophies.vercel.app/?username=haruko386&column=8&no-bg=true&title=MultiLanguage,Commit,PR,Stars,Repo,Issue,Followers,LongTimeUser," alt="Haruko386's GitHub trophy">
 </div>
 
 
