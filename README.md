@@ -57,6 +57,12 @@
   <img src="https://github-trophies.vercel.app/?username=haruko386&column=8&no-bg=true&title=MultiLanguage,Commit,PR,Stars,Repo,Issue,Followers,LongTimeUser," alt="Haruko386's GitHub trophy">
 </div>
 
+### Recently I'm coding in...
+
+<a href="https://codestats.net/users/Haruko386">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/Haruko386?width=1000&height=300&timezone=08:00&history_days=30&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="Haruko386's Code::Stats history graph" />
+</a>
+
 
 ## 📈 Contribution Timeline
 
