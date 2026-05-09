@@ -2,13 +2,12 @@
 
 ### I'm Haruko386
 
-- A Master major in Computer Version | Deep Estimation.
-- 🌱 Currently studying in Shenyang Jianzhu University.
+- 🎓 A Master major in Computer Version | Deep Estimation.
+- 🏫 Currently studying in Shenyang Jianzhu University.
 - 💼 Job Intent: **Computer Vision Algorithm Engineer**, **Golang Back-end Engineer**, **Django Back-End Engineer**.
-- 💬 Feel free to ask me about Computer Version, Deep Estimation and my projects on [haruko386@outlook.com](mailto:haruko386@outlook.com)
+- 💬 Feel free to ask me about Golang, Deep Estimation and my projects on [haruko386@outlook.com](mailto:haruko386@outlook.com)
 - ⏱️ I own a Game Speedrun World Record in Hollow Knight Trail of the Warrior.
-- ⚡ Fun fact: CV Engineer、Deep Estimation.
-
+- 🏢 : Internship in [InfiniFlow](https://github.com/infiniflow) as a **Golang backend intern**, contributing to [Ragflow](https://github.com/infiniflow/ragflow)
 ### ⌨️ Development Language
 
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
