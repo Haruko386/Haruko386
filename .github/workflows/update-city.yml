@@ -18,8 +18,8 @@ jobs:
       - name: Generate City Skyline
         uses: Haruko386-UnOffical/github-city@main
         with:
-          github_token: ${{ secrets.USER_PAT }}
-          theme: github
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: github 
 
       - name: Commit and Push
         run: |
