@@ -13,7 +13,7 @@ jobs:
       
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate City Skyline
         uses: Haruko386-UnOffical/github-city@main
@@ -21,16 +21,15 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           theme: cityNight 
 
-      - name: Move and Commit changes
+      - name: Create output directory
         run: |
-          mkdir -p .github/workflows/img
-          
-          mv city.svg .github/workflows/img/city.svg
-          
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git add .github/workflows/img/city.svg
-          
-          git commit -m "chore: update 3D city skyline image" || exit 0
-          git push
+          mkdir -p img
+          mv city.svg img/city.svg
+
+      - name: Push city to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: img
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
