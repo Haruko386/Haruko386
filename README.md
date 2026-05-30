@@ -20,7 +20,7 @@
 ## 🕰️ Recently I'm coding in...
 
 <a href="https://codestats.net/users/Haruko386">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/Haruko386?width=1000&height=300&timezone=08:00&history_days=30&max_languages=12&language_colors=["00ADD8","083fa1","292929","f34b7d","f1e05a","3572A5","e34c26","3D6117","c6538c","178600","cb171e","563d7c","ededed"]' alt="Haruko386's Code::Stats history graph" />
+  <img src='https://codestats-readme.wegfan.cn/history-graph/Haruko386?width=1000&height=300&timezone=08:00&history_days=30&max_languages=12&language_colors=["00ADD8","F34B7D","292929","083FA1","F1E05A","3572A5","008080","3572A5","E34C26","012456","E34C26","CB171E","ededed"]' alt="Haruko386's Code::Stats history graph" />
 </a>
 
 ## 📈 Contribution Timeline
