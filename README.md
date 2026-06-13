@@ -1,13 +1,12 @@
 <img align="right" alt="GIF" src="https://s2.loli.net/2024/12/07/dL4JXeokBQPisbN.gif" />
 
 ### I'm Haruko386
-
+<!-- - 💼 Job Intent: **Computer Vision Algorithm Engineer**, **Golang Back-end Engineer**    -->
 - 🎓 A Master major in Computer Version | Deep Estimation.
-- 🏫 Currently studying in Shenyang Jianzhu University.
-- 💼 Job Intent: **Computer Vision Algorithm Engineer**, **Golang Back-end Engineer**.
-- 💬 Feel free to ask me about Golang, Deep Estimation and my projects on [haruko386@outlook.com](mailto:haruko386@outlook.com)
+- 🔬 Doing Research for **Shenyang Branch of the National Special Computer Engineering Technology Research Center / Shenyang Jianzhu University**.
+- 💬 Feel free to ask me about anything on [haruko386@outlook.com](mailto:haruko386@outlook.com)
 - ⏱️ I own a Game Speedrun World Record in Hollow Knight Trail of the Warrior.
-- 🏢 : Internship in [InfiniFlow](https://github.com/infiniflow) as a **Golang backend intern**, contributing to [Ragflow](https://github.com/infiniflow/ragflow)
+- 🏢 : Internship in [**InfiniFlow**](https://github.com/infiniflow) as a **Golang backend Engineer**, contributing to [**_Ragflow_**](https://github.com/infiniflow/ragflow)
 ### ⌨️ Development Language
 
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
