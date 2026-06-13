@@ -8,28 +8,6 @@
 - ⏱️ I own a Game Speedrun World Record in Hollow Knight Trail of the Warrior.
 - 🏢 : Internship in [**InfiniFlow**](https://github.com/infiniflow) as a **Golang backend Engineer**, contributing to [**_Ragflow_**](https://github.com/infiniflow/ragflow)
 
----
-
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border: 0;">
-      <tbody><tr>
-        <td width="20%" valign="middle" style="text-align: center;"> 
-          <a href="#"><img src="./logo/evoc.png" width="250"></a>
-        </td>
-        <td width="20%" valign="middle" style="text-align: center;">
-          <a href="#"><img src="./logo/InfiniFlow.png" width="250"></a>
-        </td>
-        <td width="20%" valign="middle" style="text-align: center;"> 
-          <a href="#"><img src="./logo/logo-801-v2.png" width="250"></a>
-        </td>
-        <td width="20%" valign="middle" style="text-align: center;"> 
-          <a href="#"><img src="./logo/SJZU.jpg" width="250"></a>
-        </td>
-        <td width="20%" valign="middle" style="text-align: center;"> 
-          <a href="#"><img src="./logo/UEM.png" width="250"></a>
-        </td>
-      </tr></tbody>
-</table>
-
 ### ⌨️ Development Language
 
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
