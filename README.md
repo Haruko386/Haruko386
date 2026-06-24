@@ -23,7 +23,7 @@
   <img src='https://codestats-readme.wegfan.cn/history-graph/Haruko386?width=1000&height=300&timezone=08:00&history_days=30&max_languages=12&language_colors=["00ADD8","F34B7D","083FA1","292929","3D6117","B66D98","3572A5","F1E05A","E4CC98","012456","F39A07","E34C26","EDEDED"]' alt="Haruko386's Code::Stats history graph" />
 </a>
 
-<!--## 📈 Contribution Timeline
+## 📈 Contribution Timeline
 
  <picture>
   <img alt="Haruko386's contribution timeline" src="https://github-readme-activity-graph.vercel.app/graph?username=haruko386&theme=github-light" width="100%">
@@ -33,4 +33,4 @@
 
 <picture>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Haruko386/Haruko386/refs/heads/output/snake.svg" width="100%">
-</picture> -->
+</picture>
