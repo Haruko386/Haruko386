@@ -32,5 +32,5 @@
 <hr>
 
 <picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Haruko386/Haruko386/refs/heads/output/snake.svg" width="100%">
+  <img alt="github contribution animation" src="https://github.com/Haruko386/Haruko386/blob/738a847c2c78fea9c9256b82b38cf8f97e03d8b8/pacman-contribution-graph.svg" width="100%">
 </picture>
