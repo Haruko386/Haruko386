@@ -32,5 +32,7 @@
 <hr>
 
 <picture>
-  <img alt="github contribution animation" src="https://github.com/Haruko386/Haruko386/blob/738a847c2c78fea9c9256b82b38cf8f97e03d8b8/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haruko386/Haruko386/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Haruko386/Haruko386/output/pacman-contribution-graph.svg">
 </picture>
+
