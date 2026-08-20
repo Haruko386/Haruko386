@@ -46,3 +46,9 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Haruko386/Haruko386/output/pacman-contribution-graph.svg">
 </picture>
 
+-----
+
+<div align="center">
+  <!-- <p>You made it to the end</p> -->
+  <img src="./.github/workflows/img/mona-hifive-loop-once-454eda737f401d20.gif">
+</div>
