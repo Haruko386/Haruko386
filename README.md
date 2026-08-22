@@ -3,7 +3,7 @@
 ### I'm Haruko386
 <!-- - 💼 Job Intent: **Computer Vision Algorithm Engineer**, **Golang Back-end Engineer**    -->
 - 🎓 A Master major in Computer Version | Deep Estimation.
-- 🔬 Doing Research for **Shenyang Branch of the National Special Computer Engineering Technology Research Center**.
+- 🔬 Doing Research for **Shenyang Branch of the National Special Computer Engineering Technology Research Center** and [**EVOC Intelligent Technology Company**](https://www.evoc.cn/).
 - 💬 Feel free to ask me about anything on [haruko386@outlook.com](mailto:haruko386@outlook.com)
 - ⏱️ I own a Game Speedrun World Record in Hollow Knight Trail of the Warrior.
 - 🏢 : Internship in [**InfiniFlow**](https://github.com/infiniflow) as a **Golang backend Engineer**, contributing to [**_Ragflow_**](https://github.com/infiniflow/ragflow)
