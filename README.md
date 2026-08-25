@@ -33,6 +33,15 @@
   <img src='https://codestats-readme.wegfan.cn/history-graph/Haruko386?width=1000&height=300&timezone=08:00&history_days=30&max_languages=12&language_colors=["00ADD8","A7C0EC","3572A5","292929","CB171E","3D6117","E44B23","F34B7D","B07219","563D7C","701516","083FA1","EDEDED"]' alt="Haruko386's Code::Stats history graph" />
 </a>
 
+## 🛠️ Recently I'm working on...
+
+<div align="center">
+  <picture>
+    <img alt="Haruko386's contribution timeline" src="https://githubcard.com/Haruko386/FunPDF.svg?d=1bjCn6jEp9jv" width="95%">
+  </picture>
+</div>
+
+
 ## 📈 Contribution Timeline
 
  <picture>
@@ -47,8 +56,3 @@
 </picture>
 
 -----
-
-<div align="center">
-  <!-- <p>You made it to the end</p> -->
-  <img src="./.github/workflows/img/mona-hifive-loop-once-454eda737f401d20.gif">
-</div>
