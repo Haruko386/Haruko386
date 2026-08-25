@@ -37,7 +37,7 @@
 
 <div align="center">
   <picture>
-    <img alt="Haruko386's contribution timeline" src="https://githubcard.com/Haruko386/FunPDF.svg?d=1bjCn6jEp9jv" width="95%">
+    <img alt="Haruko386's recent working" src="https://githubcard.com/Haruko386/FunPDF.svg?d=1bjCn6jEp9jv" width="95%">
   </picture>
 </div>
 
