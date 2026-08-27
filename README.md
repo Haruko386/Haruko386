@@ -42,13 +42,13 @@
 </div>
 
 
-## 📈 Contribution Timeline
+## 📈 Contribution Graph
 
- <picture>
-  <img alt="Haruko386's contribution timeline" src="https://github-readme-activity-graph.vercel.app/graph?username=haruko386&theme=github-light" width="100%">
-</picture>
+<!--<picture>-->
+<!--    <img alt="Haruko386's contribution timeline" src="https://github-readme-activity-graph.vercel.app/graph?username=haruko386&theme=github-light" width="100%">-->
+<!--</picture>-->
 
-<hr>
+<!-- <hr> -->
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haruko386/Haruko386/output/pacman-contribution-graph.svg">
