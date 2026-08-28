@@ -37,7 +37,7 @@
 
 <div align="center">
   <picture>
-    <img alt="Haruko386's recent working" src="https://githubcard.com/Haruko386/FunPDF.svg?d=1bjCn6jEp9jv" width="95%">
+    <img alt="Haruko386's recent working" src="https://github.com/Haruko386/Lifegame-profile-readme/blob/cce47d3c3085441add042cb989e23cdab1b9ba25/repository-card.svg" width="95%">
   </picture>
 </div>
 
