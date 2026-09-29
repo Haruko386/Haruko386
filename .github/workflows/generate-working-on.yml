@@ -16,4 +16,4 @@ jobs:
     steps:
       - uses: Haruko386/Recent-working-on@main
         with:
-          repository: Haruko386/ApDepth
+          repository: cvrs-ys801/GoBridge
