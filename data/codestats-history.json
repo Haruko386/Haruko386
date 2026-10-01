@@ -1,13 +1,6 @@
 {
   "bootstrap_complete": true,
   "days": {
-    "2026-08-31": {
-      "ChatInput": 388,
-      "Go": 801,
-      "LaTeX": 579,
-      "Markdown": 2,
-      "Plain text": 2
-    },
     "2026-09-01": {
       "ChatInput": 1737,
       "Go": 4480,
@@ -190,6 +183,10 @@
       "ChatInput": 556,
       "Go": 10327,
       "HTML": 195
+    },
+    "2026-09-30": {
+      "ChatInput": 314,
+      "Go": 4201
     }
   },
   "username": "Haruko386"
