@@ -32,13 +32,14 @@
   <img src="./assets/codestats-history.svg" alt="Haruko386's Code::Stats history graph" width="100%" />
 </a>
 
+<!--
 ## 🛠️ Recently I'm working on...
 
 <div align="center">
   <picture>
     <img alt="Haruko386's recent working" src="https://github.com/Haruko386/Haruko386/blob/output-repository-card/repository-card.svg" width="95%">
   </picture>
-</div>
+</div> -->
 
 
 ## 📈 Contribution Graph
