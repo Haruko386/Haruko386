@@ -1,18 +1,6 @@
 {
   "bootstrap_complete": true,
   "days": {
-    "2026-09-07": {
-      "BibTeX": 14,
-      "CSS": 1,
-      "ChatInput": 1063,
-      "Go": 55,
-      "HTML": 1,
-      "LaTeX": 95,
-      "Markdown": 2,
-      "Plain text": 2,
-      "PowerShell": 26,
-      "scminput": 2
-    },
     "2026-09-08": {
       "ChatInput": 257
     },
@@ -182,6 +170,12 @@
       "Markdown": 413,
       "Plain text": 27,
       "textmate": 48
+    },
+    "2026-10-07": {
+      "ChatInput": 970,
+      "Go": 5300,
+      "JSON": 83,
+      "Markdown": 5
     }
   },
   "username": "Haruko386"
