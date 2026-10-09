@@ -1,9 +1,6 @@
 {
   "bootstrap_complete": true,
   "days": {
-    "2026-09-08": {
-      "ChatInput": 257
-    },
     "2026-09-09": {
       "ChatInput": 4,
       "Markdown": 21
@@ -175,6 +172,11 @@
       "ChatInput": 970,
       "Go": 5300,
       "JSON": 83,
+      "Markdown": 5
+    },
+    "2026-10-08": {
+      "ChatInput": 1474,
+      "Go": 9097,
       "Markdown": 5
     }
   },
