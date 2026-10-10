@@ -3337,9 +3337,18 @@
         
             <g>
                 
-        <polygon points="924,568 940,576 940,586 924,578" fill="#39b25a" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
-        <polygon points="940,576 956,568 956,578 940,586" fill="#319f50" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
-        <polygon points="940,560 956,568 940,576 924,568" fill="#40c463" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="924,559 940,567 940,586 924,578" fill="#1e6233" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,567 956,559 956,578 940,586" fill="#19562d" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="940,551 956,559 940,567 924,559" fill="#216e39" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        
+    
+            </g>
+        
+            <g>
+                
+        <polygon points="904,579.5 920,587.5 920,596 904,588" fill="#8ad596" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,587.5 936,579.5 936,588 920,596" fill="#7ac284" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
+        <polygon points="920,571.5 936,579.5 920,587.5 904,579.5" fill="#9be9a8" stroke="rgba(0,0,0,0.3)" stroke-width="0.5" />
         
     
             </g>
