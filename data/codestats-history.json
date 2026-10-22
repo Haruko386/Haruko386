@@ -1,12 +1,6 @@
 {
   "bootstrap_complete": true,
   "days": {
-    "2026-09-21": {
-      "Markdown": 14,
-      "Plain text": 2,
-      "Python": 89,
-      "YAML": 94
-    },
     "2026-09-22": {
       "ChatInput": 340,
       "Go": 751,
@@ -213,6 +207,13 @@
       "Python": 293,
       "Shell Script": 97,
       "YAML": 86
+    },
+    "2026-10-21": {
+      "LaTeX": 120,
+      "Plain text": 121,
+      "Python": 40,
+      "Shell Script": 41,
+      "YAML": 52
     }
   },
   "username": "Haruko386"
