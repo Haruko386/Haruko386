@@ -1,15 +1,6 @@
 {
   "bootstrap_complete": true,
   "days": {
-    "2026-10-12": {
-      "ChatInput": 90,
-      "Go": 1099,
-      "JSON": 15,
-      "LaTeX": 337,
-      "Python": 102,
-      "YAML": 17,
-      "ssh_config": 24
-    },
     "2026-10-13": {
       "BibTeX": 32,
       "JSON": 8,
@@ -207,6 +198,12 @@
       "Go": 1440,
       "JavaScript": 381,
       "Plain text": 2
+    },
+    "2026-11-11": {
+      "C/C++": 1902,
+      "ChatInput": 6,
+      "Go": 798,
+      "Plain text": 1
     }
   },
   "username": "Haruko386"
