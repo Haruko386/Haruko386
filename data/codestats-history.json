@@ -1,14 +1,6 @@
 {
   "bootstrap_complete": true,
   "days": {
-    "2026-10-15": {
-      "BibTeX": 10,
-      "HTML": 246,
-      "LaTeX": 5333,
-      "Log": 521,
-      "Markdown": 121,
-      "Plain text": 20
-    },
     "2026-10-16": {
       "JSON": 4,
       "LaTeX": 274,
@@ -197,6 +189,14 @@
       "Markdown": 9121,
       "Plain text": 1,
       "TypeScript": 110
+    },
+    "2026-11-14": {
+      "C/C++": 762,
+      "CSS": 8,
+      "Go": 940,
+      "HTML": 12,
+      "JavaScript": 2,
+      "Plain text": 4
     }
   },
   "username": "Haruko386"
