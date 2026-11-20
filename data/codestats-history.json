@@ -1,17 +1,6 @@
 {
   "bootstrap_complete": true,
   "days": {
-    "2026-10-20": {
-      "BibTeX": 12,
-      "Ignore": 33,
-      "JSON": 28,
-      "LaTeX": 1074,
-      "Markdown": 2146,
-      "Plain text": 4,
-      "Python": 293,
-      "Shell Script": 97,
-      "YAML": 86
-    },
     "2026-10-21": {
       "LaTeX": 120,
       "Plain text": 121,
@@ -183,6 +172,14 @@
       "HTML": 4,
       "JavaScript": 8,
       "Plain text": 1
+    },
+    "2026-11-19": {
+      "C/C++": 1807,
+      "Go": 830,
+      "JSON": 59,
+      "JavaScript": 77,
+      "Plain text": 4,
+      "YAML": 29
     }
   },
   "username": "Haruko386"
