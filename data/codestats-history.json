@@ -1,13 +1,6 @@
 {
   "bootstrap_complete": true,
   "days": {
-    "2026-10-21": {
-      "LaTeX": 120,
-      "Plain text": 121,
-      "Python": 40,
-      "Shell Script": 41,
-      "YAML": 52
-    },
     "2026-10-22": {
       "C/C++": 291,
       "LaTeX": 5,
@@ -180,7 +173,8 @@
       "JavaScript": 77,
       "Plain text": 4,
       "YAML": 29
-    }
+    },
+    "2026-11-20": {}
   },
   "username": "Haruko386"
 }
