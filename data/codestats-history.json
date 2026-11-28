@@ -1,16 +1,6 @@
 {
   "bootstrap_complete": true,
   "days": {
-    "2026-10-28": {
-      "ChatInput": 1848,
-      "Go": 8617,
-      "Ignore": 26,
-      "JavaScript": 72,
-      "Markdown": 4306,
-      "Plain text": 16,
-      "TypeScript": 1577,
-      "YAML": 1
-    },
     "2026-10-29": {
       "ChatInput": 519,
       "Go": 3608,
@@ -171,7 +161,8 @@
     "2026-11-26": {
       "C/C++": 980,
       "Go": 1121
-    }
+    },
+    "2026-11-27": {}
   },
   "username": "Haruko386"
 }
